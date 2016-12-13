@@ -1,16 +1,10 @@
-@media screen and (min-width: 500px) {
-body {
-animation: colorchange 40s infinite;
 
--webkit-animation: colorchange 40s infinite;
 
-background: red;
-}
 
 h1{
 color: red;
 font-size: 70px;
-
+background: red;
 }
 
 h1:hover{
